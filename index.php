@@ -11,9 +11,6 @@
         margin: 0 auto;
         padding: 0 20px;
     }
-    .store-row .btn:hover{
-        color: #2e7d32 !important;
-    }
 
     .section-header {
         text-align: center;
@@ -99,6 +96,9 @@
         .category-content p {
             font-size: 13px;
         }
+    }
+    .store-row .btn:hover{
+        color: #2e7d32;
     }
 </style>
 <style>
@@ -1022,7 +1022,7 @@
 
 
 <!-- product categories -->
-<section class="product-categories">
+<section class="product-categories" id="products-shutku">
     <div class="container">
         <div class="section-header">
             <h2>Baby & Kids Essentials You’ll Love</h2>

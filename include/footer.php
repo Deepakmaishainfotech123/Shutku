@@ -30,7 +30,7 @@
       </p>
 
       <!-- Newsletter Subscription -->
-      <div class="newsletter">
+      <!-- <div class="newsletter">
         <h3 class="footer-heading">Stay Updated</h3>
         <form class="newsletter-form">
           <input
@@ -42,7 +42,7 @@
             Subscribe
           </button>
         </form>
-      </div>
+      </div> -->
 
       <div class="social-icons">
         <a href="#" class="social-link" aria-label="Facebook">
@@ -69,6 +69,17 @@
         <a href="#products-shutku" class="footer-link">Products</a>
         <!-- <a href="#" class="footer-link">Services</a> -->
         <a href="#contact-shutku" class="footer-link">Contact</a>
+        <!-- <a href="privacy-policy.php" class="footer-link">Privacy Policy</a> -->
+      </nav>
+    </div>
+
+    <div class="footer-section">
+      <h3 class="footer-heading">Legal</h3>
+      <nav class="footer-menu">
+        <a href="terms-and-conditions.php" class="footer-link">Terms & Conditions</a>
+        <a href="shipping-policy.php" class="footer-link">Shipping Policy</a>
+        <a href="cancellation-refund.php" class="footer-link">Cancellation & Refund</a>
+        
         <a href="privacy-policy.php" class="footer-link">Privacy Policy</a>
       </nav>
     </div>

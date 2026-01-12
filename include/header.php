@@ -494,7 +494,7 @@
       margin: 0 auto;
       padding: 2rem 2rem;
       display: grid;
-      grid-template-columns:1fr 1fr 1fr;
+      grid-template-columns:1fr 1fr 1fr 1fr;
       gap: 3rem;
       position: relative;
       z-index: 1;
@@ -579,7 +579,7 @@
       color: #4caf50;
       margin-right: 10px;
       font-size: 12px;
-      opacity: 0;
+      /* opacity: 0; */
       transform: translateX(-10px);
       transition: all 0.3s ease;
     }
@@ -1432,7 +1432,7 @@
           </div>
           <div class="email">
             <i class="fas fa-envelope"></i>
-            <span>contact@shutku.com</span>
+            <span>info@shutku.com</span>
           </div>
         </div>
         <div class="promo-text">
